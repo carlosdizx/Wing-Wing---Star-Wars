@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 [AddComponentMenu("Playground/Attributes/Health System")]
@@ -41,7 +41,7 @@ public class HealthSystemAttribute : MonoBehaviour
 			ui.SetHealth(health, playerNumber);
 		}
 
-		maxHealth = health; //note down the maximum health to avoid going over it when the player gets healed
+		maxHealth = 10; //note down the maximum health to avoid going over it when the player gets healed
 	}
 
 
@@ -61,6 +61,8 @@ public class HealthSystemAttribute : MonoBehaviour
 		if(ui != null
 			&& playerNumber != -1)
 		{
+
+			Debug.Log("Valor de cambio para la vida es: "+amount);
 			ui.ChangeHealth(amount, playerNumber);
 		}
 

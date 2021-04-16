@@ -16,6 +16,8 @@ public class ConditionCollision : ConditionBase
 	// This function will be called when something touches the trigger collider
 	void OnCollisionEnter2D(Collision2D collision)
 	{
+		Debug.Log("Algo paso con la etiqueta: '"+filterTag+"'");
+		Debug.Log("Soy: "+this.gameObject);
 		if(collision.collider.CompareTag(filterTag)
 			|| !filterByTag)
 		{
