@@ -32,6 +32,7 @@ public class ObjectShooter : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
+		Destroy(gameObject,5);
 		timeOfLastSpawn = -creationRate;
 
 		// Set the player number based on the GameObject tag
