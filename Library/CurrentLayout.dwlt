@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 94
+  controlID: 97
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 95
+  controlID: 33
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 224}
   m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
-  controlID: 96
+  controlID: 14
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -382,23 +382,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 16130000
-      m_LastClickedID: 4886
-      m_ExpandedIDs: f2f9ffffdefbffff
+      m_SelectedIDs: a0410000
+      m_LastClickedID: 16800
+      m_ExpandedIDs: 98410000a4410000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Moon Monocrome
-        m_OriginalName: Moon Monocrome
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 4870
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -434,14 +434,14 @@ MonoBehaviour:
     height: 653
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: ed21ed960b10f8842a5d8838a6d038ff
-  m_SceneLighting: 1
+  m_SceneLighting: 0
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.4961343, y: -6.1655254, z: -0.29780304}
+    m_Target: {x: 12.651976, y: -0.9386949, z: 0.087208}
     speed: 2
-    m_Value: {x: -5.4961343, y: -6.1655254, z: -0.29780304}
+    m_Value: {x: 12.651976, y: -0.9386949, z: 0.087208}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -451,7 +451,7 @@ MonoBehaviour:
   m_SceneViewState:
     showFog: 1
     showMaterialUpdate: 0
-    showSkybox: 1
+    showSkybox: 0
     showFlares: 1
     showImageEffects: 1
     showParticleSystems: 1
@@ -473,9 +473,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 39.492916
+    m_Target: 13.257443
     speed: 2
-    m_Value: 39.492916
+    m_Value: 13.257443
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -551,34 +551,34 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/2DSpaceshipsFreeTrial/Textures/Background
+    - Assets/2DSpaceshipsFreeTrial/Textures/2DSpaceshipsFreeTrialTopView
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/2DSpaceshipsFreeTrial/Textures/Background
+  - Assets/2DSpaceshipsFreeTrial/Textures/2DSpaceshipsFreeTrialTopView
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Proyectos\VideoJuegos\Wing-Wing - Star-Wars
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 99}
-    m_SelectedIDs: fa100000
-    m_LastClickedID: 4346
-    m_ExpandedIDs: 00000000180b0000220c00004e0d0000500d0000a00d0000bc0d0000041100004c120000843200008632000000ca9a3b
+    scrollPos: {x: 0, y: 119}
+    m_SelectedIDs: 1e110000
+    m_LastClickedID: 4382
+    m_ExpandedIDs: 00000000180b0000220c00004e0d0000500d0000a00d00000811000052120000fc310000fe31000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 2DSpaceshipsFreeTrialTopView
-      m_OriginalName: 2DSpaceshipsFreeTrialTopView
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 4364
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -592,7 +592,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000180b0000220c00004e0d0000500d0000a00d0000bc0d00004c1200008432000086320000
+    m_ExpandedIDs: 00000000180b0000220c00004e0d0000500d0000a00d0000bc0d00000811000052120000fc310000fe310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -620,7 +620,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300000000000002330000ae330000140d0000
+    m_ExpandedInstanceIDs: c62300000000000002330000ae330000140d0000880c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
